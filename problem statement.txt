@@ -1,0 +1,19 @@
+Bayesian learning for classifying netnews text articles:
+
+Naive Bayes classifiers are among the most successful known algorithms for learning to classify text documents. 
+We will provide a dataset containing 20,000 newsgroup messages drawn from the 20 newsgroups. 
+The dataset contains 1000 documents from each of the 20 newsgroups. 
+
+1. For classes descriptions, please refer Table 6.3 of Dr. Mitchell's book (Machine Learning, Tom Mitchell, you can also download this table from  http://ranger.uta.edu/~heng/CSE6363_slides/Table6.3.pdf). 
+
+2. Please download the data from http://www.cs.cmu.edu/afs/cs/project/theo-11/www/naive-bayes.html (Newsgroup Data)
+
+3. Please use half data as training data, and the other half as testing data.
+
+4. Please implement the Naive Bayes classifier by yourself. Don't use any online code.
+
+5. Hand in your code and data as a whole package. Please make sure TA can easily run your code.
+
+6. Hand in a simple report to summarize your implementations and results.
+
+7. Send everything together via email to TA.
